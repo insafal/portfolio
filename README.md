@@ -49,7 +49,9 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 
 **Liens utiles :**
 [Voir l'image "Historique du POCL"](hackathonpocl/Historique%20du%20POCL.png)
+
 [Voir l'affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
+
 ---
 
 #### Challenge Data Inter-IUT  

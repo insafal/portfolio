@@ -39,7 +39,7 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 #### Hackathon POCL  
 **Sujet :** Conception d’un objet connecté pour visualiser l’état des déchèteries de Bordeaux Métropole  
 
-**Rôle :** Gestion et structuration et fiabilisation des données, réflexion UX
+**Rôle :** Gestion et structuration et fiabilisation des données, réflexion UX, création des affiches de présentation
 
 **Outils :** Excel 
 
@@ -47,6 +47,9 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 
 **Apport :** Découverte du potentiel de la data appliquée, prise de confiance en gestion de projet technique.
 
+**Liens utiles :**
+- ![Historique du POCL](hackathonpocl/Historique%20du%20POCL.png)
+- ![Affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
 ---
 
 #### Challenge Data Inter-IUT  

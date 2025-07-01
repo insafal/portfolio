@@ -34,7 +34,7 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 
 **Compétences mobilisées :** Analyse de données, datavisualisation, travail en équipe
 
-[Voir le rapport complet (PDF)](challenge-open-data/Rapport%20de%20l'étude.pdf)
+Voir le rapport complet(challenge-open-data/Rapport%20de%20l'étude.pdf)
 
 ---
 
@@ -49,7 +49,7 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 
 **Apport :** Découverte du potentiel de la data appliquée, prise de confiance en gestion de projet technique.
 
-- [Voir l'affiche historique du POCL](hackathonpocl/Historique%20du%20POCL.png)
+- Voir l'affiche historique du POCL(hackathonpocl/Historique%20du%20POCL.png)
   
 - [Voir l'affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
   

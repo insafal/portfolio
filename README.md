@@ -138,5 +138,5 @@ Formation approfondie sur l’exploration, le nettoyage, l’analyse de données
 
 ### Liens utiles
   
-- [LinkedIn](www.linkedin.com/in/insaf-a-a120a7259)  
-- [Mail](alilouinsaf@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/insaf-a-a120a7259)  
+- [Mail](mailto:alilouinsaf@gmail.com)

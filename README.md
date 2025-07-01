@@ -34,6 +34,8 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 
 **Compétences mobilisées :** Analyse de données, datavisualisation, travail en équipe, itération méthodologique  
 
+[Voir le rapport complet (PDF)](challenge-open-data/Rapport%20de%20l'étude.pdf)
+
 ---
 
 #### Hackathon POCL  
@@ -48,9 +50,11 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 **Apport :** Découverte du potentiel de la data appliquée, prise de confiance en gestion de projet technique.
 
 **Liens utiles :**
-[Voir l'image "Historique du POCL"](hackathonpocl/Historique%20du%20POCL.png)
+[Voir l'historique du POCL](hackathonpocl/Historique%20du%20POCL.png)
 
 [Voir l'affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
+
+[Voir le prototype](hackathonpocl/image3.JPG)
 
 ---
 
@@ -65,6 +69,10 @@ pour optimiser l’organisation et l’impact d’événements de grande ampleur
 **Compétences mobilisées :** Data analyse, restitution orale, gestion de projet
 
 **Apport :** Développement de la rigueur analytique, adaptation des analyses aux besoins des décideurs.
+
+[Voir le rapport complet](challengedata/Data%20Paper.pdf)
+[Voir la datavisualisation 1] (https://public.flourish.studio/visualisation/22317022/)
+[Voir la datavisualisation 2] (https://view.genially.com/67e425045c981cf6de8e7423/interactive-image-la-repartition-des-questions-du-public-lors-des-jo-types-frequences)
 
 ---
 
@@ -92,6 +100,8 @@ pour optimiser l’organisation et l’impact d’événements de grande ampleur
 
 **Apport :** Renforcement des compétences en veille et en analyse sectorielle.
 
+[Voir le rapport complet](challenge-veille/Challenge%20de%20la%20veille%202024%20(1).pdf)
+
 ---
 
 ### Expériences professionnelles
@@ -109,7 +119,13 @@ pour optimiser l’organisation et l’impact d’événements de grande ampleur
 **Compétences développées :** Communication digitale, gestion de projet, autonomie, gestion de réseaux sociaux, référencement, création graphique
 
 **Outils :** Canva, Google Trends, Slack
-Lien Ulule + images visuels
+
+Retrouvez ci-dessous trois exemples de visuels créés lors de mon stage:
+- [Cartes de visite](stage-mvp/Cartes-visite.png)
+- [Avis produit 1](stage-mvp/ContenuRS.png)
+- [Avis produit 2](stage-mvp/ContenuRS2.png)
+
+[Voir ma campagne Ulule]([https://fr.ulule.com/nom-de-ta-campagne/](https://fr.ulule.com/maviepratique-kit-se-laver-les-mains/))
 
 ---
 
@@ -120,7 +136,13 @@ Lien Ulule + images visuels
 
 **Outils :** Brevo, Inkscape, Blender, InDesign, Illustrator, Google Workspace, Trello, Excel
 
-Images visuels 
+Voici trois supports créés lors de mon stage :
+
+- [Newsletter #1 - Annonce évènement](stage-boyc/Newsletter1.png)
+- [Newsletter #2 - Boutique ouverte](stage-boyc/Newsletter2.png)
+- [Affiche] (stage-boyc/Affiche_soyk.pdf)
+
+  
 ---
 
 

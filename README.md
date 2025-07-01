@@ -128,7 +128,7 @@ Retrouvez ci-dessous trois exemples de visuels créés lors de mon stage:
   
 - [Avis produit 2](stage-mvp/ContenuRS2.png)
 
-[Voir ma campagne Ulule]([https://fr.ulule.com/nom-de-ta-campagne/](https://fr.ulule.com/maviepratique-kit-se-laver-les-mains/))
+[Voir ma campagne Ulule](https://fr.ulule.com/maviepratique-kit-se-laver-les-mains/)
 
 ---
 

@@ -1,5 +1,3 @@
-# portfolio
-
 # Insaf   
 ## Portfolio BUT Information-Numérique, IUT Bordeaux Montaigne
 
@@ -90,8 +88,11 @@ Lien Ulule + images visuels
 
 #### Stage | Bang On Your Chest | 2025
 **Missions :** Chargée d’événementiel sportif, veille et segmentation des cibles, rédaction de supports de communication (communiqués, dossiers partenaires, newsletters, agenda Bordeaux Métropole), création de visuels (Illustrator, InDesign), coordination d’équipe, gestion de projet
+
 **Compétences développées :** Gestion de projet événementiel, communication ciblée, création de contenus, coordination, créativité
+
 **Outils :** Brevo, Inkscape, Blender, InDesign, Illustrator, Google Workspace, Trello, Excel
+
 Images visuels 
 ---
 

@@ -50,11 +50,9 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 **Apport :** Découverte du potentiel de la data appliquée, prise de confiance en gestion de projet technique.
 
 **Liens utiles :**
-[Voir l'historique du POCL](hackathonpocl/Historique%20du%20POCL.png)
-
-[Voir l'affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
-
-[Voir le prototype](hackathonpocl/image3.JPG)
+- [Voir l'affiche historique du POCL](hackathonpocl/Historique%20du%20POCL.png)
+- [Voir l'affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
+- [Voir le prototype](hackathonpocl/image3.JPG)
 
 ---
 
@@ -70,9 +68,9 @@ pour optimiser l’organisation et l’impact d’événements de grande ampleur
 
 **Apport :** Développement de la rigueur analytique, adaptation des analyses aux besoins des décideurs.
 
-[Voir le rapport complet](challengedata/Data%20Paper.pdf)
-[Voir la datavisualisation 1] (https://public.flourish.studio/visualisation/22317022/)
-[Voir la datavisualisation 2] (https://view.genially.com/67e425045c981cf6de8e7423/interactive-image-la-repartition-des-questions-du-public-lors-des-jo-types-frequences)
+- [Voir le rapport complet](challengedata/Data%20Paper.pdf)
+- [Voir la datavisualisation 1] (https://public.flourish.studio/visualisation/22317022/)
+- [Voir la datavisualisation 2] (https://view.genially.com/67e425045c981cf6de8e7423/interactive-image-la-repartition-des-questions-du-public-lors-des-jo-types-frequences)
 
 ---
 

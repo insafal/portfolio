@@ -27,17 +27,24 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 
 #### Challenge Open Data University  
 **Sujet :** Répartition des équipements culturels en France et lien avec la pauvreté  
+
 **Rôle :** Nettoyage, croisement et visualisation de données, création d’une carte interactive sur Flourish et rédaction d'une data analyse 
+
 **Outils :** Excel, uMap, Flourish
+
 **Compétences mobilisées :** Analyse de données, datavisualisation, travail en équipe, itération méthodologique  
 
 ---
 
 #### Hackathon POCL  
 **Sujet :** Conception d’un objet connecté pour visualiser l’état des déchèteries de Bordeaux Métropole  
+
 **Rôle :** Gestion et structuration et fiabilisation des données, réflexion UX
+
 **Outils :** Excel 
+
 **Compétences mobilisées :** Collaboration interdisciplinaire, gestion de données temps réel, expérience utilisateur  
+
 **Apport :** Découverte du potentiel de la data appliquée, prise de confiance en gestion de projet technique.
 
 ---
@@ -45,27 +52,39 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 #### Challenge Data Inter-IUT  
 **Sujet :** Comment valoriser l’héritage des Jeux Olympiques et Paralympiques de Paris 2024 
 pour optimiser l’organisation et l’impact d’événements de grande ampleur sur les territoires grâce aux données ouvertes ?   
+
 **Rôle :** Nettoyage et gestion de données, analyse lexicale et thématique, datavisualisation, rédaction de recommandations  
+
 **Outils :** Excel, Google Workspace, Genially, Flourish
+
 **Compétences mobilisées :** Data analyse, restitution orale, gestion de projet
+
 **Apport :** Développement de la rigueur analytique, adaptation des analyses aux besoins des décideurs.
 
 ---
 
 #### Exposition DataViz  
 **Sujet :** Accessibilité numérique des services publics en France  
+
 **Rôle :** Nettoyage et structuration des données, conception de datavisualisations, organisation de l’exposition 
+
 **Outils :** Illustrator, Excel
-**Compétences mobilisées :** Visualisation de données, création graphique, organisation d’événement, communication multicanal  
+
+**Compétences mobilisées :** Visualisation de données, création graphique, organisation d’événement, communication multicanal 
+
 **Apport :** Gestion de projet événementiel, travail d’équipe, développement du sens de l’organisation.
 
 ---
 
 #### Challenge de la veille  
 **Sujet :** Quelle est la meilleure alternative entre un véhicule utilitaire électrique et son équivalent avec motorisation hydrogène ?
+
 **Rôle :** Veille documentaire, analyse comparative, rédaction du rapport et présentation orale  
+
 **Outils :** Cairn, Zotero 
+
 **Compétences mobilisées :** Recherche documentaire, veille stratégique, synthèse, travail collaboratif  
+
 **Apport :** Renforcement des compétences en veille et en analyse sectorielle.
 
 ---
@@ -74,13 +93,16 @@ pour optimiser l’organisation et l’impact d’événements de grande ampleur
 
 #### Stage – Conseil Départemental de la Gironde | 2023
 **Missions :** Indexation documentaire, création de notices sur CapitalData, réalisation de synthèses sur Cairn, organisation d’événements internes (Café Doc, festival « Me parle pas d’âge »), veille thématique  
+
 **Compétences développées :** Gestion documentaire, médiation, travail en équipe, veille informationnelle, organisation d’événements
 
 ---
 
 #### Stage | Ma Vie Pratique | 2024
 **Missions :** Gestion et promotion d’une campagne Ulule, création de la page de financement, participation aux tournages et shootings photos, veille concurrentielle, mise en place de partenariats stratégiques, pilotage de la croissance du réseau social Pinterest (0 à 8 000 vues/mois), création de contenus visuels  
+
 **Compétences développées :** Communication digitale, gestion de projet, autonomie, gestion de réseaux sociaux, référencement, création graphique
+
 **Outils :** Canva, Google Trends, Slack
 Lien Ulule + images visuels
 

@@ -106,10 +106,12 @@ J'intègre prochainement un master en data afin de renforcer mes compétences te
 
 ### Certification
 
-- **Google Data Analytics (Coursera)** – en cours.
-Formation approfondie sur l’exploration, le nettoyage, l’analyse de données, la gestion des
-bases et la prise de décision basée sur les données.
+**Google Data Analytics (Coursera)** – en cours.
+
+Formation approfondie sur l’exploration, le nettoyage, l’analyse de données, la gestion des bases et la prise de décision basée sur les données.
+
 **Outils :** Programmation R, SQL, Power BI, Python, Tableau, Analyse statistique
+
 ---
 
 ### Liens utiles

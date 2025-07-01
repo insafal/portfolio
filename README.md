@@ -48,8 +48,8 @@ Ces trois années m’ont permis d’explorer des contextes professionnels vari�
 **Apport :** Découverte du potentiel de la data appliquée, prise de confiance en gestion de projet technique.
 
 **Liens utiles :**
-- ![Historique du POCL](hackathonpocl/Historique%20du%20POCL.png)
-- ![Affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
+[Voir l'image "Historique du POCL"](hackathonpocl/Historique%20du%20POCL.png)
+[Voir l'affiche explicative](hackathonpocl/Tout%20sur%20notre%20POCL.png)
 ---
 
 #### Challenge Data Inter-IUT  
